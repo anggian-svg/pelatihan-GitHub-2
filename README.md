@@ -2,4 +2,6 @@
 **teks**
 *teks*
 ~~teks~~
- Saturnus- Uranus- Neptunus
+- Saturnus
+- Uranus
+- Neptunus
